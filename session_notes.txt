@@ -1,0 +1,8 @@
+Equilateral
+An equilateral triangle has three
+ equal sides and angles.A,b,c are the 
+ length of the sides of a triangle then 
+ a+b>c || a+c>b || b+c>a
+
+
+int i=3; printf("%d", i++); printf("%d", ++i);
